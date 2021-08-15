@@ -60,6 +60,7 @@ Project Link: [https://github.com/havelockz/plane](https://github.com/havelockz/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/havelockz/plane.svg?style=for-the-badge
 [contributors-url]: https://github.com/havelockz/plane/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/havelockz/plane.svg?style=for-the-badge
 [forks-url]: https://github.com/havelockz/plane/network/members
